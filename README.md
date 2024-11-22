@@ -1,1 +1,0 @@
-# Tecis_MVC
